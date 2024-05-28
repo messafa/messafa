@@ -3,7 +3,7 @@
 </h1>
 <br/>
 <br/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=messafa-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="messafa-mohammed" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=messafa&label=Profile%20views&color=0e75b6&style=flat" alt="messafa" /> </p>
 <br/>
 
 <h3 align="center">🌟 Navigating the Code Sea | Aspiring to Master Software Craftsmanship</h3>
@@ -41,7 +41,7 @@
 <hr/>
 <div align="center">
     <h2>✤ My Contributions ✤</h2>
-    <img alt="snake eating my Contributions"  src="https://github.com/messafa-mohammed/messafa-mohammed/blob/output/github-contribution-grid-snake-dark.svg"/>  
+    <img alt="snake eating my Contributions"  src="https://github.com/messafa/messafa/blob/output/github-contribution-grid-snake-dark.svg"/>  
 </div>
 <br/>
 
@@ -52,12 +52,12 @@
 <h2  align="center">✤📈 Github Stats: 📈✤</h2>
 <br>
 <div  align="center">
-    <img width=390 src="https://streak-stats.demolab.com/?user=messafa-mohammed&count_private=true&theme=react&border_radius=10" alt="streak stats" /><br/>
+    <img width=390 src="https://streak-stats.demolab.com/?user=messafa&count_private=true&theme=react&border_radius=10" alt="streak stats" /><br/>
 </div>
 <br/>
 <p align="center">
-  <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=messafa-mohammed&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  alt="readme stats"  />
-    <img  align="center" width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=messafa-mohammed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"  />
+  <img  align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=messafa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"  alt="readme stats"  />
+    <img  align="center" width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=messafa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"  />
 </p>
 
 <br/><br/>
