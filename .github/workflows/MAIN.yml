@@ -4,8 +4,8 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    # every 6 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -17,14 +17,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
 
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
@@ -41,15 +33,7 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Commit and push if there are changes
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add -A
-          git commit -m "Update snake animations" -a || echo "No changes to commit"
-          git push origin main
-
-      - name: Deploy to GitHub Pages
+      - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
