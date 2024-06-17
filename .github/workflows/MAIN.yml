@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: Platane/snk/svg-only@v3
 
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
