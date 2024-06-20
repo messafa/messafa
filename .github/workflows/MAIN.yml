@@ -4,22 +4,31 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-    # every 6 hours
-    - cron: '0 */4 * * *'
+      # every 4 hours
+    - cron: "0 */4 * * *"
+
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+  
+  # Also run on every push on the master branch
   push:
     branches:
-      - main
+    - main
 
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: Platane/snk/svg-only@v3
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: messafa
+        uses: actions/checkout@v3
+    
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,7 +37,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=black&color_dots=#f7cef0,#f97eef,#fc5fcd,#ed29e7,#d503b6
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
@@ -40,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
