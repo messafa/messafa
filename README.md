@@ -30,11 +30,8 @@
 <h3 align="center">✤🛠 Languages & Frameworks & Tools: 🛠✤</h3>
 <div align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c,java" /> <br>
-            <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,figma,git" /><br>
-            <img src="https://skillicons.dev/icons?i=nest,next,arduino,dart,flutter,discord,kali" /><br/>
-            <img src="https://skillicons.dev/icons?i=latex,vite,notion,npm,postgresql,postman,pug"/> <br>
-            <img src="https://skillicons.dev/icons?i=python,raspberrypi,react,sqlite,sass,tailwindcss,typescript,ubuntu"/> <br>
+            <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /> <br>
+            <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/> <br>
         </a>
 </div>
 <br/>
