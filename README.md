@@ -19,12 +19,9 @@
 
 - 📫 How to reach me **moh.messafa@gmail.com**
 <br/>
-<h3 align="center">🤙🏻🤙🏻 Connect with me: </h3>
-<p align="center">
-<a href="https://linkedin.com/in/mohammed-messafa-7156292a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-messafa" height="30" width="40" /></a>
-<a href="https://fb.com/mohammed.messafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed.messafa" height="30" width="40" /></a>
-<a href="https://instagram.com/messafa_mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="messafa_mohammed" height="30" width="40" /></a>
-</p>
+
+<br/><br/>
+<br/><br/>
 <br/><br/>
 <hr/>
 <h3 align="center">✤🛠 Languages & Frameworks & Tools: 🛠✤</h3>
