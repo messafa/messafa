@@ -29,6 +29,7 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /> <br>
             <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/> <br>
+            <img sec="https://skillicons.dev/icons?i=React-Dark,react,TailwindCSS,tailwindcss     "/> <br>
         </a>
 </div>
 <br/>
