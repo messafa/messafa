@@ -28,10 +28,10 @@
 <div align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=c,nodejs,javascript,express,mongodb" /> <br>
-            <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/> <br>
             <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> <br>
             <img src="https://skillicons.dev/icons?i=react,redux,typescript" /> <br>
-            <img src="https://skillicons.dev/icons?i=git,vscode,figma,vercel,heroku,postgresql" /> <br>
+            <img src="https://skillicons.dev/icons?i=git,vscode,figma,vercel,postgresql" /> <br>
+            <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/> <br>
         </a>
 </div>
 <br/>
