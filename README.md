@@ -27,9 +27,10 @@
 <h3 align="center">✤🛠 Languages & Frameworks & Tools: 🛠✤</h3>
 <div align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /> <br>
+            <img src="https://skillicons.dev/icons?i=c,nodejs,javascript,express,mongodb" /> <br>
             <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/> <br>
-            <img sec="https://skillicons.dev/icons?i=React-Dark,react,TailwindCSS,tailwindcss     "/> <br>
+            <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap" /> <br>
+            <img src="https://skillicons.dev/icons?i=react,redux,typescript" /> <br>
         </a>
 </div>
 <br/>
